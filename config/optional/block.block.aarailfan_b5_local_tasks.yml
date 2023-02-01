@@ -2,9 +2,9 @@ langcode: en
 status: true
 dependencies:
   theme:
-    - aarailfan
-id: aarailfan_local_tasks
-theme: aarailfan
+    - aarailfan_b5
+id: aarailfan_b5_local_tasks
+theme: aarailfan_b5
 region: content
 weight: -4
 provider: null

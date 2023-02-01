@@ -4,9 +4,9 @@ dependencies:
   module:
     - help
   theme:
-    - aarailfan
-id: aarailfan_help
-theme: aarailfan
+    - aarailfan_b5
+id: aarailfan_b5_help
+theme: aarailfan_b5
 region: content
 weight: -3
 provider: null

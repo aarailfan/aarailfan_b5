@@ -6,9 +6,9 @@ dependencies:
   module:
     - system
   theme:
-    - aarailfan
-id: aarailfan_footer
-theme: aarailfan
+    - aarailfan_b5
+id: aarailfan_b5_footer
+theme: aarailfan_b5
 region: footer
 weight: -6
 provider: null
