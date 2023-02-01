@@ -11,6 +11,7 @@ ckeditor5-stylesheets:
   - css/style.css
 stylesheets-remove:
   - '@bootstrap5/css/style.css'
+screenshot: screenshot.jpg
 regions:
   header: Header
   nav_branding: 'Navigation branding region'
