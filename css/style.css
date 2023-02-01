@@ -86,19 +86,19 @@
   }
 }
 
-#block-aarailfan-footer {
+#block-aarailfan-b5-footer {
   position: relative;
   margin: 1em;
   overflow: hidden;
 }
-#block-aarailfan-footer ul {
+#block-aarailfan-b5-footer ul {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
   margin-left: -1px;
 }
-#block-aarailfan-footer li {
+#block-aarailfan-b5-footer li {
   flex-grow: 1;
   flex-basis: auto;
   margin: .25em 0;
