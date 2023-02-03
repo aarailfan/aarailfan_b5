@@ -4,7 +4,7 @@ description: 'aarailfan subtheme based on Bootstrap 5 theme.'
 core_version_requirement: '^9.2 || ^10'
 'base theme': bootstrap5
 libraries:
-  - aarailfan/global-styling
+  - aarailfan_b5/global-styling
 ckeditor_stylesheets:
   - css/style.css
 ckeditor5-stylesheets:
