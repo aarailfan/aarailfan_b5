@@ -1,7 +1,7 @@
 name: aarailfan_b5
 type: theme
 description: 'aarailfan subtheme based on Bootstrap 5 theme.'
-core_version_requirement: '^9.2 || ^10'
+core_version_requirement: '^9.2 || ^10 || ^11'
 'base theme': bootstrap5
 libraries:
   - aarailfan_b5/global-styling
